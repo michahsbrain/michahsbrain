@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/biochimie/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/biochimie/"}
 ---
 
 
