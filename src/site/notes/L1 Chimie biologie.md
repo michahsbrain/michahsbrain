@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l1-chimie-biologie/"}
+{"dg-publish":true,"permalink":"/l1-chimie-biologie/","tags":["gardenEntry"]}
 ---
 
 
